@@ -63,3 +63,7 @@ No metas NIF, nombres de inquilinos, direcciones completas ni IBAN en código, f
 ## Documentación para desarrolladores
 
 Reglas, arquitectura y metodología (TDD) en [AGENTS.md](AGENTS.md).
+
+## Licencia
+
+[MIT](LICENSE).
