@@ -1,0 +1,20 @@
+/** Casillas del Anexo de desglose de gastos deducibles (Orden HAC/623/2026). */
+export const BOX_LABELS: Record<number, string> = {
+  1: "Pendiente de deducir de los 4 años anteriores (intereses y reparación)",
+  2: "Importe de la casilla 1 que se aplica",
+  3: "Intereses, financiación y reparación/conservación del año",
+  4: "Importe de la casilla 3 que se aplica",
+  5: "Gastos de comunidad",
+  6: "Gastos de formalización del contrato",
+  7: "Gastos de defensa jurídica",
+  8: "Otras cantidades devengadas por terceros por servicios personales",
+  9: "Servicios y suministros",
+  10: "Primas de contratos de seguro",
+  11: "Tributos, recargos y tasas",
+  12: "Saldos de dudoso cobro",
+  13: "Amortización de bienes muebles",
+  14: "Amortización del inmueble",
+  15: "Amortización de la mejora",
+  16: "Otros gastos fiscalmente deducibles",
+  17: "Total gastos deducibles",
+};

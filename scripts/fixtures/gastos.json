@@ -1,0 +1,410 @@
+{
+ "values": [
+  [
+   "Fecha",
+   "PVP",
+   "Beneficiario",
+   "Concepto",
+   "Categoria1",
+   "Categoria2",
+   "Taxes",
+   "Frecuencia"
+  ],
+  [
+   "15/09/2023",
+   "5.700,00",
+   "Inmobiliaria",
+   "Intermediacion",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "02/10/2023",
+   "60",
+   "Persona 1",
+   "IBI",
+   "gastos",
+   "impuestos",
+   "Si"
+  ],
+  [
+   "02/10/2023",
+   "30",
+   "Persona 1",
+   "Agua",
+   "suministros",
+   "agua"
+  ],
+  [
+   "02/10/2023",
+   "370,33",
+   "Notario",
+   "Gastos Notaria",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "02/10/2023",
+   "19.000,00",
+   "Ayuntamiento",
+   "ITP",
+   "gastos",
+   "gastos de financiacion",
+   "Si"
+  ],
+  [
+   "02/10/2023",
+   "133,10",
+   "Gestor",
+   "Gastos Mensajeria",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "02/10/2023",
+   "484,00",
+   "Gestor",
+   "Gastos Gestoria",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "02/10/2023",
+   "190.000,00",
+   "Persona 1",
+   "Compra vivienda",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "03/10/2023",
+   "162,90",
+   "Placa Vitroceramica",
+   "Placa Vitroceramica",
+   "amortizaciones",
+   "muebles"
+  ],
+  [
+   "03/10/2023",
+   "1.359,38",
+   "Leroy Merlin",
+   "Reformas",
+   "gastos",
+   "gastos de reparacion y conservacion"
+  ],
+  [
+   "04/10/2023",
+   "52,14",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "05/10/2023",
+   "162,00",
+   "Horno",
+   "Horno",
+   "amortizaciones",
+   "muebles"
+  ],
+  [
+   "05/10/2023",
+   "177,90",
+   "Mueble Baño",
+   "Mueble Baño",
+   "amortizaciones",
+   "muebles"
+  ],
+  [
+   "06/10/2023",
+   "93,10",
+   "Fregadero",
+   "Fregadero",
+   "amortizaciones",
+   "muebles"
+  ],
+  [
+   "9/10/2023",
+   "481,36",
+   "Mediamarkt",
+   "Nevera y Lavadora",
+   "amortizaciones",
+   "muebles",
+   "Si"
+  ],
+  [
+   "01/11/2023",
+   "51,35",
+   "Aguas",
+   "Agua noviembre y diciembre",
+   "suministros",
+   "agua"
+  ],
+  [
+   "08/11/2023",
+   "355,47",
+   "Registrador",
+   "Gastos Registro",
+   "gastos",
+   "gastos de financiacion"
+  ],
+  [
+   "01/12/2023",
+   "140,73",
+   "comunidad propietarios",
+   "4 trimestre",
+   "gastos",
+   "gastos de comunidad"
+  ],
+  [
+   "31/12/2023",
+   "185,2",
+   "Ayuntamiento",
+   "licencia obras menores",
+   "gastos",
+   "reparacion y conservacion",
+   "Si"
+  ],
+  [
+   "4/01/2024",
+   "400",
+   "Persona 2",
+   "pintura paredes y parder entrada"
+  ],
+  [
+   "04/01/2024",
+   "52,14",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "13/01/2024",
+   "780",
+   "Persona 3",
+   "Contrato Gestion Arrendamiento",
+   "gastos",
+   "financiacion",
+   "Si"
+  ],
+  [
+   "1/02/2024",
+   "70",
+   "Persona 2",
+   "antena"
+  ],
+  [
+   "02/03/2024",
+   "15,12",
+   "comunidad propietarios",
+   "TRABAJOS EN VOLADIZO FACHADA TRASERA DEL EDIFICIO",
+   "gastos",
+   "gastos de reparacion y conservacion"
+  ],
+  [
+   "03/03/2024",
+   "15,58",
+   "comunidad propietarios",
+   "REPARACION POR FILTRACIONES EN PISO SEPTIMO Y TERRAZA",
+   "gastos",
+   "gastos de reparacion y conservacion"
+  ],
+  [
+   "03/03/2024",
+   "92,24",
+   "comunidad propietarios",
+   "RESTO 1ER TRIMESTRE",
+   "gastos",
+   "gastos de comunidad"
+  ],
+  [
+   "4/03/2024",
+   "40",
+   "Persona 2",
+   "enchufes"
+  ],
+  [
+   "5/03/2024",
+   "50",
+   "Persona 4",
+   "manguitos caldera"
+  ],
+  [
+   "12/03/2024",
+   "687",
+   "Persona 4",
+   "bomba agua"
+  ],
+  [
+   "04/04/2024",
+   "52,14",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "30/04/2024",
+   "144,66",
+   "AYTO",
+   "IBI",
+   "gastos",
+   "impuestos",
+   "Si"
+  ],
+  [
+   "16/06/2024",
+   "830",
+   "Persona 4",
+   "Aire Acondicionado"
+  ],
+  [
+   "04/07/2024",
+   "52,14",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "05/07/2024",
+   "121,78",
+   "comunidad propietarios",
+   "PAGO 2DO TRIMESTRE",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "04/10/2024",
+   "52,14",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "09/10/2024",
+   "109,41",
+   "comunidad propietarios",
+   "PAGO 3ER TRIMESTRE",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "04/01/2025",
+   "52,135",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "09/01/2025",
+   "87,6",
+   "comunidad propietarios",
+   "PAGO 4TO TRIMESTRE",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "05/02/2025",
+   "466,14",
+   "mutua de propietarios",
+   "seguro de impago",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "09/10/2025",
+   "235,01",
+   "Linea Directa",
+   "seguro vivienda",
+   "gastos",
+   "seguros",
+   "",
+   "Anual"
+  ],
+  [
+   "13/10/2025",
+   "102,93",
+   "comunidad propietarios",
+   "PAGO 3ER TRIMESTRE",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "13/10/2025",
+   "96,7",
+   "comunidad propietarios",
+   "PAGO 3ER TRIMESTRE",
+   "gastos",
+   "gastos de reparacion y conservacion",
+   "",
+   "trimestral"
+  ],
+  [
+   "06/01/2026",
+   "83,54",
+   "comunidad propietarios",
+   "PAGO 4o TRIMESTRE 2025",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "06/01/2026",
+   "77,05",
+   "comunidad propietarios",
+   "PAGO 4o TRIMESTRE 2025",
+   "gastos",
+   "gastos de reparacion y conservacion",
+   "",
+   "trimestral"
+  ],
+  [
+   "08/04/2026",
+   "112,83",
+   "comunidad propietarios",
+   "PAGO PRIMER TRIMESTRE 2026",
+   "gastos",
+   "gastos de comunidad",
+   "",
+   "trimestral"
+  ],
+  [
+   "08/04/2026",
+   "19,19",
+   "comunidad propietarios",
+   "PAGO PRIMER TRIMESTRE 2026",
+   "gastos",
+   "gastos de reparacion y conservacion",
+   "",
+   "trimestral"
+  ]
+ ]
+}
